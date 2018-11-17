@@ -1,11 +1,9 @@
-## **PRACTICE CODING QUESTIONS**
+## **PRACTICE CODING QUESTIONS - JAVA**
 
-## **AUTHOR**
+## **DEVELOPER**
 Priyam Saikia (UFID **** ****)
 
-## **INFORMATIONS** 
-
-*JAVA:*
+## **INFORMATION** 
 
 1. Binary Search - O(nlogn)
 2. FindClosestNumber - O(logn)
